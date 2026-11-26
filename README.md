@@ -89,6 +89,13 @@ The [wiring document](hardware/wiring.md) maps the firmware pins. Supply voltage
 
 See [the test plan](docs/testing.md) for the checks required before reporting these features as validated.
 
+## Presentation
+
+A 12-slide Korean portfolio presentation based on the submitted firmware and prototype photos. This revised edition replaces unsupported implementation and testing claims from the original presentation and omits personal location data.
+
+- [View the presentation as PDF](docs/presentation/smart-helmet-presentation.pdf)
+- [Download the editable PowerPoint presentation](docs/presentation/smart-helmet-presentation.pptx)
+
 ## Repository guide
 
 ```text

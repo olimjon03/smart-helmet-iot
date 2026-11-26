@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/0400ed51-4fd9-4673-8bd0-12b94e3f849f
-
 # Smart Helmet IoT
 
 **ESP32 · Arduino C++ · MPU6050 · NEO-6M GPS · SIM7600**
@@ -14,6 +10,12 @@ A physical helmet prototype exploring motion-triggered emergency alerts. The fir
   <img src="images/assembly.jpg" width="460" alt="Actual Smart Helmet prototype with ESP32, breadboard, GPS and modem">
   <img src="images/prototype.png" width="280" alt="Helmet interior during the supplied prototype demonstration">
 </p>
+
+## Demo video
+
+A 31-second demonstration of the physical prototype. Phone and laptop screens are covered and audio is omitted for privacy. This video shows the hardware demonstration; controlled detection accuracy and recipient SMS delivery remain separate validation tasks.
+
+https://github.com/user-attachments/assets/0400ed51-4fd9-4673-8bd0-12b94e3f849f
 
 ## How it works
 
@@ -109,7 +111,7 @@ docs/                  Architecture, build verification and bench test plan
 images/                Reviewed prototype photos
 ```
 
-Original photos, video, poster and private settings are excluded from publication. The supplied poster contains broader feature claims than this code implements. The full video includes phone screens and has not been published; the helmet-only still above is extracted from it.
+Unredacted original media, the original poster and private settings are excluded from publication. The supplied poster contains broader feature claims than this code implements. The demo above uses a privacy-redacted, silent copy of the supplied video.
 
 ## 한국어 소개
 

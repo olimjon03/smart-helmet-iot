@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/0400ed51-4fd9-4673-8bd0-12b94e3f849f
+
 # Smart Helmet IoT
 
 **ESP32 · Arduino C++ · MPU6050 · NEO-6M GPS · SIM7600**

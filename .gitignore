@@ -1,0 +1,10 @@
+# Unreviewed originals can contain personal information
+media/originals/
+secrets.h
+config.local.h
+.env
+.env.*
+!.env.example
+.DS_Store
+.pio/
+build/
